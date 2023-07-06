@@ -13,5 +13,5 @@
 
 
 ล็อคอินด้วยอีเมล์ @kingpower.com ของคุณ และรหัสตอนที่ได้รับ account  
-หากคุณยังไม่มี account สำหรับ login กรุณาติดต่อ admin ทางอีเมล์ pawanachai.seeruesang@kingpower.com
+หากคุณยังไม่มี account สำหรับ login ให้กรอกข้อมูลที่ [Request Permission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=LEnsfqSod0GQWXfsjujJhzDQAglPpflPjOyObRWsrk9UQlFaSFo3Q0tHWExMUkdFRUY2OVQ2N0pIUS4u) และแจ้ง PO, Lead หรือ Squad
 
