@@ -3,7 +3,7 @@
 วิธีการจัดการเนื้อหาของแต่ละ module อาจมีความแตกต่างกันไปในรายละเอียด เมนูนี้เราจะมาแสดงรายละเอียดของการจัดการเนื้อหา โดนแยกตามแต่ละ module ดังนี้
 - Homepage
 - Navigation
-- [Popup](#popup)
+- [Pop-up](#popup)
 
 ## Homepage
 
@@ -13,30 +13,34 @@
 
 <hr>
 
-## Popup
-ป๊อบอัพของเว็บ King Power E-comm จะถูกแบ่งออกเป็นสองประเภทใหญ่ๆ คือ Entry Popup กับ Floating Popup
+## Pop-up
+ป๊อบอัพของเว็บ King Power E-comm จะถูกแบ่งออกเป็นสองประเภทใหญ่ๆ คือ Entry Pop-up กับ Floating Pop-up ซึ่ง user สามารถเซ็ทให้แสดงผลได้บนหน้า Homepage, Product List, Collection และหน้า Search
 
-### Entry Popup
-Entry Popup คือ แบนเนอร์ที่จะแสดงผลแรกสุดเมื่อเข้าสู่หน้า Home จะแสดงผลขึ้นตรงกลาง เหนือเนื้อหาอื่นๆ สามารถกดที่แบนเนอร์เพื่อลิงค์ไปที่หน้าอื่น และคลิกปุ่มกากบาทหรือส่วนอื่นนอกพื้นที่แบนเนอร์เพื่อปิดได้
+### Entry Pop-up
+<img src="/assets/images/entry-popup.png" alt="KP Entry Pop-up" style="width:100%; hight:auto;">
+Entry Pop-up คือ แบนเนอร์ที่จะแสดงผลแรกสุดเมื่อเข้าสู่หน้า Home จะแสดงผลขึ้นตรงกลาง เหนือเนื้อหาอื่นๆ สามารถกดที่แบนเนอร์เพื่อลิงค์ไปที่หน้าอื่น และคลิกปุ่มกากบาทหรือส่วนอื่นนอกพื้นที่แบนเนอร์เพื่อปิดได้
 
-#### การจัดการแบนเนอร์ Entry Popup
-ไปที่
+#### การจัดการแบนเนอร์ Entry Pop-up
+ไปที่เมนู Content Manager > Entry Pop-up
 
 ##### Create
+คลิกปุ่ม + Create new entry ที่มุมขวาบน
+
 
 ##### Update
 
 ##### Delete
 
-### Floating Popup
-คือแบนเนอร์ที่จะแสดงผลตามส่วนต่างๆ ของเว็บไซต์ มี 3 ตำแหน่งคือ
-* Top
-* Bottom
-* Right Bottom
+### Floating Pop-up
+<img src="/assets/images/floating-popup.png" alt="KP Floating Pop-up" style="width:100%; hight:auto;">
 
-(รูปตัวอย่างแบนเนอร์ที่ตำแหน่งต่างๆ)
+Floating Pop-up คือแบนเนอร์ที่จะแสดงผลตามส่วนต่างๆ ของเว็บไซต์ มี 3 ตำแหน่งคือ
 
-#### การจัดการแบนเนอร์ Floating Popup
+1. Top
+2. Right Bottom
+3. Bottom
+
+#### การจัดการแบนเนอร์ Floating Pop-up
 
 <hr>
 
