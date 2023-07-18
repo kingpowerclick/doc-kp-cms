@@ -3,6 +3,8 @@ KP CMS หรือ King Power Content Management System คือระบบ�
 * Homepage
 * Navigation
 * [Popup](content.md#popup)
-* Static Page
+* Campaign & Condition
+* Partner
+* GWP
 * FAQs, Howto, T&C and Privacy Policy Pages
 * Premium Brand Page
