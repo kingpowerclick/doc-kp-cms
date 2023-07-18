@@ -14,7 +14,7 @@
 ## Text Block
 
 เป็น Layout ที่เป็นพื้นฐานที่สุด การแสดงผลจะเป็นการกางเนื้อหาเต็มพื้นที่ container ซ้ายขวา 
-<img src="/assets/images/layout/layout-text-block.png" alt="Text Block Layout">
+<img src="https://kpc-prod-frontend-resource.s3.ap-southeast-1.amazonaws.com/micrositeHtml/kp-cms/images/layout/layout-text-block.png" alt="Text Block Layout">
 
 #### การจัดการเนื้อหา
 การจัดการเนื้อหาจะเป็นเพียง Text Editor ช่องเดียว ซึ่งภายใน Text Editor ก็สามารถใส่ตัวหนังสือ จัด paragraph ใส่รูป และสามารถใช้งาน HTML ได้ด้วย (ดูเพิ่มเติมเกี่ยวกับ Text Editor) 
@@ -24,7 +24,7 @@
 ## One Image
 
 เป็น Layout ที่ประกอบด้วยรูป รูปเดียว กางเต็มพื้นที่ container ซ้ายขวา 
-<img src="/assets/images/layout/layout-one-image.png" alt="One Image Layout">
+<img src="https://kpc-prod-frontend-resource.s3.ap-southeast-1.amazonaws.com/micrositeHtml/kp-cms/images/layout/layout-one-image.png" alt="One Image Layout">
 
 #### การจัดการเนื้อหา
 
@@ -32,7 +32,7 @@
 
 ## Two Image
 
-<img src="/assets/images/layout/layout-two-image.png" alt="Two Image Layout">
+<img src="https://kpc-prod-frontend-resource.s3.ap-southeast-1.amazonaws.com/micrositeHtml/kp-cms/images/layout/layout-two-image.png" alt="Two Image Layout">
 
 #### การจัดการเนื้อหา
 
@@ -40,7 +40,7 @@
 
 ## Two Fixed Image
 
-<img src="/assets/images/layout/layout-two-fixed-image.png" alt="Two Fixed Image Layout">
+<img src="https://kpc-prod-frontend-resource.s3.ap-southeast-1.amazonaws.com/micrositeHtml/kp-cms/images/layout/layout-two-fixed-image.png" alt="Two Fixed Image Layout">
 
 #### การจัดการเนื้อหา
 
@@ -48,7 +48,7 @@
 
 ## Three Image
 
-<img src="/assets/images/layout/layout-three-image.png" alt="Three Image Layout">
+<img src="https://kpc-prod-frontend-resource.s3.ap-southeast-1.amazonaws.com/micrositeHtml/kp-cms/images/layout/layout-three-image.png" alt="Three Image Layout">
 
 #### การจัดการเนื้อหา
 
@@ -56,7 +56,7 @@
 
 ## Three Fixed Image
 
-<img src="/assets/images/layout/layout-three-fixed-image.png" alt="Three Fixed Image Layout">
+<img src="https://kpc-prod-frontend-resource.s3.ap-southeast-1.amazonaws.com/micrositeHtml/kp-cms/images/layout/layout-three-fixed-image.png" alt="Three Fixed Image Layout">
 
 #### การจัดการเนื้อหา
 
