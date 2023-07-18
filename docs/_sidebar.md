@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 * [KP CMS User Manual](/)
-* [Login Information](login.md)
-* [Overview](overview.md)
-* [Component Layout](component.md)
-* [Content Management](content.md)
-* [Appendix](appendix.md)
+* [:unlock: Login Information](login.md)
+* [:book: Overview](overview.md)
+* [:balloon: Component Layout](component.md)
+* [:memo: Content Management](content.md)
+* [:link: Appendix](appendix.md)
